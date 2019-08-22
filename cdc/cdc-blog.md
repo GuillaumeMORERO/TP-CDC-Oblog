@@ -21,7 +21,7 @@ A partir de 2000€ HT (soit 5 jours), réparti en :
 ### Délai
 Deux semaines à compter de la validation du devis (accompagné d'un acompte de 30%).
 
-## Spécifications fonctionnelles
+## Spécifications fonctionnelles￼ 
 
 ### Apparence
 Ambiance "espace" (cosmos). Site responsive.
